@@ -1,0 +1,26 @@
+h1 {
+    font-size: 38px;
+    width: 500px;
+    text-align: center;
+    text-weight: bold;
+    color: white;
+    background-color: black;
+}
+img {
+    height: auto;
+    width: 500px;
+}
+h4 {
+    text-decoration-line: underline overline;
+}
+.description {
+    font-style: italic;
+}
+h5 {
+    background-color: rgb(226, 226, 93);
+    text-align: center;
+    width: 500px;
+    color: black;
+    font-weight: bold;
+    font-size: 28px;
+}

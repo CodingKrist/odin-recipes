@@ -1,0 +1,16 @@
+h1 {
+    color: white;
+    background-color: black;
+}
+.two,
+.three {
+    font-weight: bold;
+}
+.one {
+    background-color: rgb(223, 138, 138);
+}
+button {
+    background-color: yellow;
+    color: black;
+    font-weight: bold;
+}
